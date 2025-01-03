@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dbc6b0c2-eacc-4376-a0b6-cb87de35f176">
+  <name>PEN012_ПопыткаНеПытка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Попытка не пытка</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>StdPicture.Help</picture>
+  </picture>
+  <content>CommonForm.PEN012_Тест</content>
+  <content>CommonModule.PEN012_Тесты</content>
+</mdclass:Subsystem>

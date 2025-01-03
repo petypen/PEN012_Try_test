@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d5e5b996-948c-43bd-a581-cb5bff559ec8">
+  <name>PEN012_Тест2</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест 2 (Выход за границу массива)</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

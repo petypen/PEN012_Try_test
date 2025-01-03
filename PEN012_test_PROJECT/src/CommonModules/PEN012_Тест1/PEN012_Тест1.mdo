@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fe45d788-effc-46bc-ac1f-88579b0f12ee">
+  <name>PEN012_Тест1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест 1 (деление на ноль)</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
