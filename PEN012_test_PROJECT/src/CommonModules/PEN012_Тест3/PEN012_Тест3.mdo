@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="05ae7659-0334-4a6d-a2c4-b3a2187282ef">
+  <name>PEN012_Тест3</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест 3 (Вызов исключения как оператора)</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

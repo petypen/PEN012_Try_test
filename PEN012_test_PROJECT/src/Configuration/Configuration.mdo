@@ -51,6 +51,8 @@
   <roles>Role.PEN012_ОсновнаяРоль</roles>
   <commonModules>CommonModule.PEN012_Тест1</commonModules>
   <commonModules>CommonModule.PEN012_Тест2</commonModules>
+  <commonModules>CommonModule.PEN012_Тест3</commonModules>
+  <commonModules>CommonModule.PEN012_Тест4</commonModules>
   <commonModules>CommonModule.PEN012_Тесты</commonModules>
   <commonForms>CommonForm.PEN012_Тест</commonForms>
 </mdclass:Configuration>
