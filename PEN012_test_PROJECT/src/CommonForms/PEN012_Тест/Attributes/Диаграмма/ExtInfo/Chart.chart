@@ -82,7 +82,6 @@
   </scaleColor>
   <isAutoSeriesName>true</isAutoSeriesName>
   <isAutoPointName>true</isAutoPointName>
-  <maxMode>Limited</maxMode>
   <maxSeries>2</maxSeries>
   <maxSeriesPrc>30</maxSeriesPrc>
   <spaceMode>Half</spaceMode>
@@ -144,7 +143,9 @@
     <interval>
       <leftIsNum>true</leftIsNum>
       <rightIsNum>true</rightIsNum>
+      <rightNum>800.0</rightNum>
     </interval>
+    <maxValueDetectionMethod>UseValue</maxValueDetectionMethod>
   </valuesAxis>
   <pointsAxis>
     <interval>
